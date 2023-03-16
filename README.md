@@ -41,5 +41,5 @@ The Note Taker application was built with the following technologies:
 
 Node.js
 Express.js
-##Credits
+## Credits
   Ryan Hood github.com/ryanhood10
