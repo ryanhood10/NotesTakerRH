@@ -1,13 +1,13 @@
-#Note Taker
+# Note Taker
 Note Taker is a simple web application built with Express.js that allows users to create and manage notes. When you click "Get Started" on the home page, you're presented with a screen where you can add a note, and save it into the notes list. You can also delete notes on the list by pressing the trashcan icon.
 
-##Functionality
+## Functionality
 The application has the following functionality:
 
 Allows users to add new notes with a title and a text body.
 Saves notes to a list of existing notes.
 Allows users to delete notes from the list.
-##Installation
+## Installation
 To use the Note Taker application, you'll need to have Node.js and npm installed on your computer. You can install them from the official Node.js website.
 
 After installing Node.js and npm, you can install the application's dependencies by running the following command in the application's terminal:
@@ -16,7 +16,7 @@ Copy code
 npm install
 This will install the required packages, including Express.js.
 
-##Usage
+## Usage
 To start the Note Taker application, run the following command in the application's terminal:
 
 sql
@@ -28,7 +28,7 @@ To use the application, open your web browser and go to http://localhost:3000. C
 
 - an alternative option wouold be to open the application at https://notestakerapp14.herokuapp.com/
 
-##Deployment
+## Deployment
 The Note Taker application has been deployed on Heroku and is available for use. To access the deployed application, go to the following URL:
 
 php
@@ -36,7 +36,7 @@ Copy code
 <heroku-url>
 The application uses the same functionality as described above. The application uses the process.env.PORT environment variable to listen to incoming requests on the assigned Heroku port. The application's dependencies are automatically installed when deployed to Heroku.
 
-##Technologies Used
+## Technologies Used
 The Note Taker application was built with the following technologies:
 
 Node.js
